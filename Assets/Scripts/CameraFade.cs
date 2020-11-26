@@ -1,4 +1,12 @@
-﻿using UnityEngine;
+﻿/*
+This script is originally from https://github.com/ReCogMission/FirstTutorials
+Described in the youtube tutorial here: https://www.youtube.com/watch?v=a66Fa7Oh7TE
+
+Just added the ability to start it via script instead of a pressed key.
+*/
+
+
+using UnityEngine;
 
 public class CameraFade : MonoBehaviour
 {

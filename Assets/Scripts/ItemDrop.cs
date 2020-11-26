@@ -1,4 +1,9 @@
-﻿using MoreMountains.Feedbacks;
+﻿/*
+Originally taken from https://github.com/reunono/CorgiEngineExtensions
+but modified to use it as a feedback component in the CorgiEngine
+*/
+
+using MoreMountains.Feedbacks;
 using UnityEngine;
 
 [FeedbackPath("GameObject/ItemDrop")]

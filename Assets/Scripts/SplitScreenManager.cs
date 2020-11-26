@@ -15,6 +15,9 @@ namespace CameraUtils
     /// https://github.com/Levrault/corgi-engine-dynamic-split-screen
     ///
     /// @author Levrault
+    ///
+    /// Made some extensions from my side to this class to be able to set a splitter
+    /// and also to have a delayed switching to single view is one player dies
     /// </summary>
     public class SplitScreenManager : MonoBehaviour
     {
