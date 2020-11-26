@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdcce41a9fd63e4f99456d731aa9368, type: 3}
+  m_Name: MediPack
+  m_EditorClassIdentifier: 
+  ItemID: MediPack
+  TargetInventoryName: MainInventoryPlayer1
+  Usable: 1
+  Equippable: 0
+  Quantity: 1
+  ItemName: MediPack
+  ShortDescription: MediPack which increases health
+  Description: 
+  CanMoveObject: 0
+  CanSwapObject: 1
+  Icon: {fileID: 0}
+  Prefab: {fileID: 0}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 5
+  ItemClass: 3
+  TargetEquipmentInventoryName: WeaponInventoryPlayer1
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  HealthBonus: 25

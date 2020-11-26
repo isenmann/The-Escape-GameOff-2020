@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Prefabs/Elevator/NewElevatorModel.fbx
+Assets/Prefabs/Characters/AnimatorCharacter.controller
+Assets/Prefabs/Characters/FemaleHead.fbx
+Assets/Prefabs/Characters/MaleHead.fbx
+Assets/Prefabs/Enemies/AnimatorEnemies.controller
